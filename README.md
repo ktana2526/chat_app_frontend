@@ -40,6 +40,8 @@ $ npm start
 ## 画面仕様
 フロントエンド側からバックエンドサーバーの各種APIにアクセスします。  
 
+![画面イメージ](https://github.com/ktana2526/chat_app_frontend/blob/master/img/description.png)
+
 #### 送信 ボタン
 1. テキストフィールドに入力された値をサーバに送信します。
 
