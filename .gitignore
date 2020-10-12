@@ -23,3 +23,11 @@ yarn-debug.log*
 yarn-error.log*
 
 .env
+
+node_modules/
+
+debug.log
+
+README.md
+
+static.json
